@@ -11,4 +11,13 @@ near arteries or if it could multiply even without a direct source of oxygen.
 Materials and Methods
 
 We were given data derived utilizing Smart-Seq as a sequencing technique. The cell types included in the datasets were MCF7 and HCC1608.
-As features, we have various genes what were found when sequencing RNA from the various cells.
+As features, we have various genes what were found when sequencing RNA from the various cells. Later, we moved on to the larger Drop-Seq
+dataset.
+
+Project contents:
+
+Exploratory Data Analysis
+Dimensionality Reduction and Clustering
+SVM
+Neural Networks
+Logistic Regression

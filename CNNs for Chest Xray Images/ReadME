@@ -1,1 +1,8 @@
+This is a project about CNNs dedicated for the detection of Pneumonia in Chest Xray Images.
+The dataset used is an open-source Kaggle dataset.
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+This directory contains the final report, the notebooks and the final models.
+We implement pre-trained models, which have been trained extensively on large datasets. 
+Then we use a custom-designed CNN model with finetuned hyperparameters. 
+Finally, we compare the performances of these two models anddiscuss the implications.
